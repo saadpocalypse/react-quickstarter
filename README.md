@@ -47,18 +47,6 @@ npx react-quickstarter <project-name> [github-repo-url]
 -   Replace  `[github-repo-url]`  with the GitHub repository URL  **if you want to push the code to GitHub**.
 -   If you do not provide a GitHub URL, the script will still create the project but will not push to GitHub.
 
-3.  After the setup completes, navigate to your new project directory:
-    
-```bash
-cd <project-name>
-```
-    
-4.  Start the development server:
-    
-```bash
-npm run start
-```
-
 <br>
 
 ## How It Works
